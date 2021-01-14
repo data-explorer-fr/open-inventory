@@ -5,6 +5,7 @@
 
 # Source and test files
 !src/**/*.java
+!src/*.java
 !test
 !test/
 !test/**
